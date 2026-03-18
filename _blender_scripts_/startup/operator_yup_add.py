@@ -10,7 +10,7 @@ class AddEmpty(bpy.types.Operator, AddObjectHelper):
     bl_label = "Y-Up axis"
     def execute(self, context):
         # create a new object
-        sel_obs = list(context.selected_objects)
+        selected_objects  = list(context.selected_objects)
         ob = object_utils.object_data_add(context,
                                           None,
                                           operator=self,
@@ -26,7 +26,7 @@ class AddEmpty(bpy.types.Operator, AddObjectHelper):
             ob.lock_scale[i] = True
         ob.lock_rotation_w = True
         
-        for sel_ob in sel_obs:
+        for sel_ob in selected_objects:
             sel_ob.parent = ob
         
         # exit with success
