@@ -25,8 +25,6 @@ You’ll build a sci-fi first-person adventure from scratch, designing locations
 The book also explores key topics like simulation, rigid bodies, and cinematic sequences. Whether you’re refining draft scenes, generating procedural worlds, or building final assets for Unity, you’ll gain the technical skills to work smarter and faster.
 By the end, you'll have built an integrated pipeline and a playable game, with confidence to reuse the techniques across future projects.
 
-*Email sign-up and proof of purchase required
-
 </details>
 <details open> 
   <summary><h2>Key Learnings</summary>
