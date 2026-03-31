@@ -1,11 +1,11 @@
 <a href="https://www.packtpub.com/en-us/unlock"><img src="https://drive.google.com/uc?export=view&id=1lQCTQQ8iV5pGuPA1n5wuds-3pwJi0OD_"></a>
 <h1 align="center">
-3D Game Development with Blender 5 and Unity 6, First Edition</h1>
+3D Game Development with Blender 5 and Unity 6</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/3d-game-development-with-blender-5-and-unity-6-first-edition/9781836643210"> 3D Game Development with Blender 5 and Unity 6, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
-Create immersive 3D games in Blender and Unity using a real-time, elegant, professional workflow
+Create immersive 3D games in Blender and Unity using a real-time, elegant workflow
 </h2>
 <p align="center">
 Paolo Acampora</p>
